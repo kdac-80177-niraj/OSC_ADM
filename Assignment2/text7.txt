@@ -1,0 +1,32 @@
+-rw-rw-r-- 1 1000 1000 15 Jun  9  2001 text1.htm
+-rw-rw-r-- 2 1000 1000 15 Dec  7 17:29 text2.htm
+-rw-rw-r-- 2 1000 1000 15 Dec  7 17:29 text2link.htm
+-rw-rw-r-- 1 1000 1000  0 Dec  7 17:12 text3.htm
+-rw-rw-r-- 1 1000 1000  0 Dec  7 17:12 text4.htm
+-rw-rw-r-- 1 1000 1000  0 Dec  7 17:12 text5.htm
+-rw-rw-r-- 1 1000 1000  0 Dec  7 17:12 text6.htm
+Device: 805h/2053d	Inode: 3408492     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ sunbeam)   Gid: ( 1000/ sunbeam)
+Access: 2023-12-07 17:25:17.556192496 +0530
+Modify: 2023-12-07 17:25:13.092179035 +0530
+Change: 2023-12-07 17:25:13.244179490 +0530
+ Birth: 2023-12-07 17:25:13.092179035 +0530
+Device: 805h/2053d	Inode: 3408486     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ sunbeam)   Gid: ( 1000/ sunbeam)
+Access: 2023-12-07 17:12:45.559291971 +0530
+Modify: 2023-12-07 17:12:45.559291971 +0530
+Change: 2023-12-07 17:15:38.748922842 +0530
+ Birth: 2023-12-07 17:12:45.559291971 +0530
+  File: text6.htm
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 805h/2053d	Inode: 3408488     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ sunbeam)   Gid: ( 1000/ sunbeam)
+Access: 2023-12-07 17:12:45.559291971 +0530
+Modify: 2023-12-07 17:12:45.559291971 +0530
+Change: 2023-12-07 17:15:38.748922842 +0530
+ Birth: 2023-12-07 17:12:45.559291971 +0530
+DAC
+DMC
+DBDC
+D*C
+DITIC
